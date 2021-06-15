@@ -2,7 +2,7 @@
 .DS_Store
 .vscode/
 .idea/
-
+.github/workflows
 # Logs
 logs
 *.log
@@ -108,7 +108,7 @@ dist
 # TernJS port file
 .tern-port
 
-.github/
+.github/workflows
 
 package-lock.json
 
